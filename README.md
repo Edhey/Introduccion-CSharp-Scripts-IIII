@@ -1,9 +1,13 @@
 # Práctica 2 Interfaces Inteligentes. Introducción C# Scripts
+*Autor: Himar Edhey Hernández Alonso - alu0101552392*
+*Asignatura: Interfaces Inteligentes*
+---
+## Introducción
+
 En esta práctica se proponen 13 ejercicios para practicar la programación en C# de scripts que controlen el comportamiento de objetos en Unity.
 Los ejercicios se encuentran en el siguiente [documento](https://docs.google.com/document/d/1p0Am7MJxXagUPGJYdfbOlIXrZ8P98eSOc6n9EaRr930/edit?tab=t.0)
 
 ---
-
 ## Ejercicio 1
 *Crea un script asociado a un objeto en la escena que inicialice un vector de 3 posiciones con valores entre 0.0 y 1.0, para tomarlo como un vector de color (Color). Cada 120 frames se debe cambiar el valor de una posición aleatoria y asignar el nuevo color al objeto. Parametrizar la cantidad de frames de espera para poderlo cambiar desde el inspector.*
 
