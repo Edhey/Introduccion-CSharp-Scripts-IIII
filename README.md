@@ -206,6 +206,8 @@ public class VelocityAxis : MonoBehaviour {
 }
 ```
 
+![Velocity Axis](Resources/Pr2-Ej6.gif)
+
 ## Ejercicio 7
 *Mapea la tecla H a la función disparo. *
 
@@ -296,7 +298,7 @@ public class MovingWithArrows : MonoBehaviour {
 ## Ejercicio 10
 *Adapta el movimiento en el ejercicio 9 para que sea proporcional al tiempo transcurrido durante la generación del frame.*
 
-Al script anterior se le modificó el vector de movimiento para que se multiplica también por ```Time.deltaTime```. De esta forma aseguramos que el movimiento sea independiente de la tasa de frames.
+Al script anterior se le modificó el vector de movimiento para que se multiplica también por ```Time.deltaTime```. De esta forma aseguramos que el movimiento sea independiente de la tasa de frames. Ahora al mover el cubo con las teclas de flecha, el movimiento es suave y consistente, al contrario que en el ejercicio anterior donde el movimiento era muy brusco debido a la dependencia de la tasa de frames.
 
 ```csharp
 using UnityEngine;
@@ -430,3 +432,5 @@ public class AlwaysMovingForward : MonoBehaviour {
   }
 }
 ```
+
+![Always Moving Forward](Resources/Pr2-Ej13.gif)
