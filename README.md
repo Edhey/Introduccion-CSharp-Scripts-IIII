@@ -1,6 +1,6 @@
 # Práctica 2 Interfaces Inteligentes. Introducción C# Scripts
-*Autor: Himar Edhey Hernández Alonso - alu0101552392*
-*Asignatura: Interfaces Inteligentes*
+- *Autor: Himar Edhey Hernández Alonso - alu0101552392*
+- *Asignatura: Interfaces Inteligentes*
 ---
 ## Introducción
 
